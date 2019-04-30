@@ -1,0 +1,14 @@
+﻿In Denmark 2007, the grading system changed.
+The system needed to be adaptable for the international system. 
+The "13-skala" had 10 values ranging from 00 to 13,
+the new scala, "7-trin-skala" has 7 values, ranging from -3 to 12.
+
+The test, tests if the input from the old scale, converts to the
+correct value in the new scale. 
+
+This is done by giving the ConvertGrade() method an int from 
+the old scale, and if it equals the expected value, the test will pass.
+
+It is written in C# with the nUnit test framework. 
+Made by Caja and Nicklas
+for KEA SoftDev 2019 Testing class. 
